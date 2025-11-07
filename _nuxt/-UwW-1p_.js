@@ -1,1 +1,0 @@
-import{_ as o}from"./B0aDGyrp.js";import{_ as a,H as n,i as s,w as r,U as _}from"./C20p2gOg.js";const c={};function f(t,l){const e=o;return s(),n(e,null,{default:r(()=>[_(t.$slots,"default")]),_:3})}const m=a(c,[["render",f]]);export{m as default};
