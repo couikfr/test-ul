@@ -8,7 +8,7 @@ seo:
 
 ::u-page-hero
 #title
-Petite modification depuis nuxt studio en Markdown
+Petite modification depuis nuxt studio en Markdown++
 
 #description
 Ship fast, flexible, and SEO-optimized documentation with beautiful design out of the box.
